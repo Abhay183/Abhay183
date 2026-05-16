@@ -1,36 +1,143 @@
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | React.js | Node.js | NestJS | Next.js | TypeScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay183&label=Profile%20views&color=0e75b6&style=flat" alt="abhay183" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay183" alt="abhay183" /></a> </p>
-
-- 🔭 I’m currently working on **internal company projects**
-
-- 🌱 I’m currently learning **NestJS, PostgreSQL, and advanced backend architecture**
-
-- 👯 I’m looking to collaborate on **Full Stack Web Development projects**
-
-- 🤝 I’m looking for help with **scalable system design and microservices**
-
-- 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL**
-
-- 📫 How to reach me **abgupta2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YykWViPYXUgw6vs82tTdJikFM17iRFBk/view?usp=drive_link](https://drive.google.com/file/d/1YykWViPYXUgw6vs82tTdJikFM17iRFBk/view?usp=drive_link)
-
-- ⚡ Fun fact **I enjoy building scalable applications and solving complex backend challenges**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhay-gupta-5a6a4b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-gupta-5a6a4b227" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+NestJS;TypeScript+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis;Building+Scalable+and+Production-Ready+Applications" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhay183&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Abhay183?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Abhay183?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="stars" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay183&show_icons=true&locale=en&layout=compact" alt="abhay183" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay183&show_icons=true&locale=en" alt="abhay183" /></p>
+## 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay183&" alt="abhay183" /></p>
+- 💼 Currently working as a **Full Stack Developer** at **Emizen Tech Pvt. Ltd.**
+- 🏢 Building and maintaining **internal company projects**
+- 🚀 Developing scalable applications using **React.js, Next.js, Node.js, NestJS, and TypeScript**
+- 🗄️ Working with **PostgreSQL, MongoDB, MySQL, and Redis**
+- 🐳 Using **Docker, Git, GitHub, and Postman** in daily development
+- 🌱 Currently learning **Advanced Backend Architecture & Microservices**
+- 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL**
+- 📍 Based in **Jaipur, Rajasthan, India**
+- 📫 Reach me at **abgupta2003@gmail.com**
+- ⚡ Fun fact: **I enjoy building scalable applications and solving complex backend challenges**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhay-gupta-5a6a4b227/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="mailto:abgupta2003@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://github.com/Abhay183" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,postgresql,mysql,redis,docker,git,github,postman&perline=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 HealthSync
+AI-powered health management platform with medication tracking and Ayurvedic wellness recommendations.  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+### 💬 Chat Application
+Real-time chat application with secure authentication and cloud-based storage.  
+**Tech:** React.js, Firebase, Material UI, Tailwind CSS
+
+### 🧠 Brain Boosters
+Interactive quiz platform using Trivia API with customizable difficulty levels.  
+**Tech:** React.js, JavaScript, Material UI
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer | Emizen Tech Pvt. Ltd.
+**March 2025 – Present | Jaipur, Rajasthan**
+
+- Developed and maintained full-stack web applications using React.js and Node.js
+- Built scalable REST APIs with NestJS and Express.js
+- Integrated PostgreSQL, MongoDB, and Redis for robust backend systems
+- Collaborated in Git/GitHub-based workflows
+- Working on enterprise-grade internal applications
+
+---
+
+## 🏆 Certifications
+
+- 🐍 Python Programming – Great Learning
+- 🌐 HTML & CSS – LetsUpgrade
+- 🗄️ SQL – HackerRank
+- ⚡ JavaScript – LetsUpgrade
+- 🐧 Red Hat Certified System Administrator
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay183&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay183&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay183&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay183&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay183&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- ⚙️ Enterprise Backend Development with NestJS
+- 🏗️ Scalable System Design
+- 🐳 Docker & DevOps Workflows
+- ☁️ Cloud Deployment and Optimization
+- 🚀 Production-Ready Full Stack Applications
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <i>"Code is not just about solving problems — it's about building scalable solutions that create real impact."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer" />
+</p>
